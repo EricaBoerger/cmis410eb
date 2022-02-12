@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!--
+	Author: Erica Boerger 
+	Date: February 12, 2022
+
+	Filename: samplefile
+	-->
+
+</head>
+
+	<body>
+		<header>
+			<h1> SAMPLE FILE </h1>
+		</header>
+		<footer>
+			sample
+		</footer>
+	</body>
+  
+</html>
